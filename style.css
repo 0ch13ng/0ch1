@@ -1,0 +1,42 @@
+
+body{
+    background-image: url(travis.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#herosection{
+    height: 48vh;
+    display: flex;
+}
+.sec1{
+    height:100%;
+    width:48%;}
+   
+#fname{
+    font-size: 450%;
+}
+#name{
+    text-align: center;}
+  #About_me{
+    text-align: center;
+    
+    margin-top: 4%;
+    padding: 3%;
+  }  
+#skills{
+    text-align: center;
+}
+#contact_me{
+    margin: auto;
+    text-align: center;
+    
+}
+form{
+    border: 1px solid black;
+    width: 50%;
+    margin-left:25% ;
+    padding: 2%;
+    border-radius: 3% 3%;
+}
